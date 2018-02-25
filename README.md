@@ -1,1 +1,1 @@
-# Reddit API Scraper + Twitter Bot
+# Reddit API Scraper
