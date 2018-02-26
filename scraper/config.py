@@ -1,0 +1,5 @@
+client_id=''
+client_secret=''
+username=''
+password=''
+user_agent='AnyRandomNameHere - Usually I use: MyBotsNameV1.0'
