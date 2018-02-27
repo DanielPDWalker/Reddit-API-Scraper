@@ -1,0 +1,4 @@
+Error at date + time: Tue Feb 27 14:24:35 2018
+Error when splitting the imported data at the ## markup headings
+
+
