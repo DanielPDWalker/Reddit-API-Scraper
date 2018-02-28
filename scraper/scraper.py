@@ -173,7 +173,7 @@ data = wiki.content_md
 
 
 
-# Splits data on markup for heading '##', as these are titles for our tables.
+# Splits data on markup for heading '##', as these are titles of the page that we can split from to get our tables.
 try:
     one,futureLaunches,pastLaunches,orbits,notes,six,seven,eight = data.split('##')
 except:
