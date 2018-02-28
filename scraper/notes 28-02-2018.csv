@@ -1,0 +1,6 @@
+index,Notes
+0,O - OFFICIAL: Officially manifested on the [SpaceX Official Manifest](http://www.spacex.com/missions).  
+1,"S - SOURCE: Not present on the [SpaceX Official Manifest](http://www.spacex.com/missions), but confirmed by a reliable source. The contract may not yet be finalized by SpaceX and the customer.  "
+2,M - MANNED: Manned mission.  
+3,R - REUSE: The first stage of the Falcon 9 or at least a core of the Falcon Heavy has already flown at least once.  
+4,T - TEST: Test mission.  

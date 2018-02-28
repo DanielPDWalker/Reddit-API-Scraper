@@ -1,0 +1,2 @@
+Error at date + time: Wed Feb 28 17:37:43 2018
+Error 4 - Getting the indexes for slicing the pastLaunches list to make the pastLaunchesHeadings list. Likely targetElemets have changed.
